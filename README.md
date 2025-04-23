@@ -1,6 +1,6 @@
 # GWAS-pipeline
 
-This repository describes steps in genome-wide association studies (GWAS) and post-GWAS analyses.  Compliment to the methods paper, "From genetic association to forensic prediction: Computational methods and tools for identifying phenotypically informative SNPs" which represents the second chapter of my PhD thesis.
+This repository describes steps in genome-wide association studies (GWAS) and post-GWAS analyses.  Compliment to the methods paper, "From genetic association to forensic prediction: Computational methods and tools for identifying phenotypically informative SNPs" which represents the second (Paper 1) and third (Paper 2) chapter of my PhD thesis.
 
 ## Introduction
 
